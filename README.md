@@ -1,1 +1,0 @@
-# 2020-Skatebot-Drivetrain-Characterization
